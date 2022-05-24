@@ -1,116 +1,104 @@
-# Code Refactor Starter Code
+# Hori∙seo∙n Homepage
+### On-the-Job Ticket (Feature Request) Challenge #1: Refactor
 
-What the project does
-Why the project is useful
-How users can get started with the project
-Where users can get help with your project
-Who maintains and contributes to the project
-
-- User Story: -
-
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-
-
-- Acceptance Criteria: -
-
-GIVEN a webpage meets accessibility standards
-
-WHEN I view the source code --> THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements --> THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements --> THEN I find accessible alt attributes
-WHEN I view the heading attributes --> THEN they fall in sequential order
-WHEN I view the title element --> THEN I find a concise, descriptive title
-
-
-- Technical Acceptance Criteria: 40% -
-
-Application's links all function correctly.
-Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-Application's CSS file is properly commented.
-
-
-- Deployment: 32% -
-
-Application deployed at live URL.
-Application loads with no errors.
-Application GitHub URL submitted.
-GitHub repository that contains application code.
-
-
-- Application Quality: 15% -
-
-Application resembles (at least 90%) screenshots provided in challenge instructions.
-
-
-- Repository Quality: 13% -
-
-Repository has a unique name.
-Repository follows best practices for file structure and naming conventions.
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-Repository contains multiple descriptive commit messages.
-Repository contains quality README file with description, screenshot, and link to deployed application.
-
-
-- Submit BOTH of the following for review: -
-
-The URL of the deployed application.
-The URL of the GitHub repository that contains your code.
-  --> Give the repository a unique name and include a README file that describes the project.
-
-# <Your-Project-Title>
+<p align="center">
+  <img
+    width="543"
+    height="362"
+    src= "Develop/assets/images/digital-marketing-meeting.jpg">
+    </p>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+##### **Hori∙seo∙n Homepage** is the webpage-home of a marketing agency, ***Horiseon***, designed primarily to meet Web Accessiblity Initiative (WAI) Web Accessibility standards as set by the World Wide Web Consortium (W3C).
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+##### Web accessibility is becoming increasingly important for any business to consider to ensure inclusivity and maximize web traffic potential. Accomodating people with disabilities so that they can interact with a website always pays off: exhibiting consideration for others directly correlates to the expansion of potential reach.
 
-## Table of Contents (Optional)
+##### Following the Scout Rule and aiming for long-term sustainability, the semantically and sequentially refactored codebase enables assistive technologies, like screen readers (text alternatives), so that the deployed homepage is accessible and fully functional.
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+***User Story***:
 
+> AS A marketing agency ⇢ I WANT a codebase that follows accessibility standards ⇢ SO THAT our own site is optimized for search engines
+
+## Table of Contents
+
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
+- [Features](#features)
 - [Credits](#credits)
 - [License](#license)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+- Clone the Github repository
+- Do not fork the starter code repository! (make unique repository with the starter code)
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+### [View Deployed Site!](https://tinasieben.github.io/horiseon-homepage/)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+- ***Technology Used***: HTML, CSS, Git, Markdown
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Screenshot
+
+<p align="center">
+  <img
+    width="597.75"
+    height="651"
+    src= "ADD SCREENSHOT"> !!!!!!!!!!!!!!
+    </p>
+
+## Features
+
+Given a webpage meets **WAI** web accessibility standards:
+
+- Semantic HTML elements
+- Logical HTML element structure independent of styling and positioning
+- Alternate image text attributes
+- Sequentially ordered heading attributes
+- Unque, concise, descriptive webpage title
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+<details>
+<summary>
+Collaborators
+</summary>
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+- [Christina Sieben](https://github.com/tinasieben)
+- [Horiseon Social Solution Services, Inc. - UC Berkeley Coding Bootcamp](https://github.com/coding-boot-camp)
 
-If you followed tutorials, include links to those here as well.
+</details>
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+&copy; 2019 Horiseon Social Solution Services, Inc. || All Rights Reserved
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+> This is free and unencumbered software released into the public domain.
+>
+> Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+>
+>In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+>
+>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+>
+>For more information, please refer to <https://unlicense.org>
