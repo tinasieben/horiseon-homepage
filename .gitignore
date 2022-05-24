@@ -1,3 +1,4 @@
 # LOCAL ENV
 .vscode/
 .DS_Store/
+../.DS_Store
