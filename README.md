@@ -5,7 +5,7 @@
   <img
     width="543"
     height="362"
-    src= "Develop/assets/images/digital-marketing-meeting.jpg">
+    src= "/assets/images/digital-marketing-meeting.jpg">
     </p>
 
 ## Description
@@ -49,7 +49,7 @@
   <img
     width="597.75"
     height="651"
-    src= "ADD SCREENSHOT"> !!!!!!!!!!!!!!
+    src= "assets/screenshot.png">
     </p>
 
 ## Features
