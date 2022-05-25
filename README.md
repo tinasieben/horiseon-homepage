@@ -5,7 +5,7 @@
   <img
     width="543"
     height="362"
-    src= "/assets/images/digital-marketing-meeting.jpg">
+    src= "assets/images/digital-marketing-meeting.jpg">
     </p>
 
 ## Description
@@ -47,9 +47,9 @@
 
 <p align="center">
   <img
-    width="597.75"
-    height="651"
-    src= "assets/screenshot.png">
+    width="604.8"
+    height="833"
+    src= "assets/images/screenshot.png">
     </p>
 
 ## Features
